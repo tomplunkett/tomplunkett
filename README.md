@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all kinds of things related to AI and patents.
 - 💞️ I’m looking to collaborate on anything related to AI and patents.
 - 📫 How to reach me: thomaskplunkett at gmail.
-- Hackathon prizes listed on DevPost at https://devpost.com/tomplunkett
+- Some of my Hackathon prizes listed on DevPost at https://devpost.com/tomplunkett
 
 My sub-directories are in various states of completion, feel free to reach out if you you'd like the latest information on any of the projects I'm working on.
 
