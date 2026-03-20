@@ -9,7 +9,7 @@
 - I have passed over fifty technical certifications on AI, Big Data, Blockchain, C++, Cloud Computing, Databases, Java, Operating Systems and Networking, Python, R, Security, and other topics from Oracle, NVIDIA, IBM, Arcitura, CIW, and other organizations.  Some of the certifications include NVIDIA Certified Agentic AI Professional, Certified Data Science Professional, and Certified Gen AI Professional; Oracle Certified Gen AI Professional, etc.  
 - I have an M.S. in Computer Science from Virginia Tech, an M.S. in Blockchain and Digital Currency from the University of Nicosia, a J.D. and a B.A. from George Mason University, graduate certificates in Management Science and Cybersecurity from Stanford University, and I am completing an M.S. in Data Science from the University of Colorado Boulder in the next few months.
 - I have written programs in C, C++, Java, Python, Solidity, SQL, R, and other languages.  
-- My sub-directories are in various states of completion, feel free to reach out if you'd like the latest information on any of the projects I'm working on.
+- My repositories are in various states of completion, feel free to reach out if you'd like the latest information on any of the projects I'm working on.
 
 
 <!---
