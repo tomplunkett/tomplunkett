@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom Plunkett
-- Everything on this site is my personal opinion, and does not reflect the opinion of my employer (Oracle). 
+- Everything on this site is my personal opinion, and does not reflect the opinion of my former employer (Oracle). 
 - 👀 I’m interested in AI, Cryptocurrency, patents, and other technologies.  My current primary focus is on playing with OpenClaw and an HP ZGX Nano AI Station.  
 - 📫 How to reach me: thomaskplunkett at gmail.
 - I've participated in hackathons, including winning 1st place in the 2026 NVIDIA GTC Hack to Create Hackathon for a solution that included Open Claw, NVIDIA DGX Spark GB10, and other technologies.  https://youtu.be/Pdl-mUhj49I  https://luma.com/gtc-hack-to-create?tk=NsEK7z
