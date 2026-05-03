@@ -1,7 +1,20 @@
-- 👋 Hi, I’m Tom Plunkett
-- Everything on this site is my personal opinion, and does not reflect the opinion of my former employer (Oracle). 
-- 👀 I’m interested in AI, Cryptocurrency, patents, and other technologies.  My current primary focus is on playing with OpenClaw and an HP ZGX Nano AI Station.  
+## 👋 Hi, I’m Tom Plunkett
+  
+## I build and write about AI, cryptocurrency, and patents. Lately I'm experimenting with local AI systems, OpenClaw, and agentic workflows.
+
+## Featured Work
+- Links and resources for learning cryptocurrency concepts, Bitcoin resources, and Blockchain Hackathons.
+- Patent Data Science Projects
+- Machine Learning and AI projects
+
+## Highlights
+- 1st place, 2026 NVIDIA GTC Hack to Create Hackathon.
+- Gold prize, HHS Digital COVID-19 Diagnostic Tool Design-a-thon.
+- Published author on AI, Big Data, Bitcoin, cloud computing, Java, patents, and R.
+- 
 - 📫 How to reach me: thomaskplunkett at gmail.
+
+  ## Details
 - I've participated in hackathons, including winning 1st place in the 2026 NVIDIA GTC Hack to Create Hackathon for a solution that included Open Claw, NVIDIA DGX Spark GB10, and other technologies.  https://youtu.be/Pdl-mUhj49I  https://luma.com/gtc-hack-to-create?tk=NsEK7z
 - Some of my Hackathon prizes are listed on DevPost at https://devpost.com/tomplunkett.  I won 3rd place at the 2018 Wyoming Blockchain Hackathon.  I won prizes at the 2019 Consensus Hackathon and prizes at other hackathons.  I've been a hackathon mentor for EthDenver. My AgentX hackathon submission is at https://github.com/AITHU-AgentBeats/    
 - I won first place/gold prize for the U.S. Department of Health and Human Services (HHS) Digital Covid-19 Diagnostic Tool Design-a-thon in 2020.  https://clpmag.com/disease-states/infectious-diseases/covid-19/winners-of-hhs-digital-covid-19-diagnostic-tool-design-a-thon-announced/
